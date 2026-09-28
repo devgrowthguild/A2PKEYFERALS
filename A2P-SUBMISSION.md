@@ -49,7 +49,7 @@ After deploying, check that these URLs load over HTTPS:
 **Use case:** Mixed (Customer Care + Marketing). Pick *Low Volume Mixed* if you'll send under about 2,000 texts a day.
 
 **Campaign description**
-> Keyferrals is a real estate referral company that connects licensed real estate agents with verified buyer and seller opportunities. We send text messages to real estate agents and prospective partners who opt in through the form on our website (https://keyferral.com/#get-started). Messages include application follow-ups, onboarding information, referral notifications, appointment reminders, account updates and, for contacts who separately opt in to marketing, promotional offers and program updates.
+> Keyferrals is a referral network and marketing partner for licensed real estate agents, offering agent-to-agent referrals, real estate marketing services (listing photo and video editing, listing landing pages, agent websites), and dedicated account support. We send text messages to real estate agents who opt in through the form on our website (https://keyferral.com/#get-started). Messages include application follow-ups, onboarding information, referral notifications, appointment reminders, account updates and, for contacts who separately opt in to marketing, promotional offers and program updates.
 
 **Sample message 1**
 > Keyferrals: Hi {first_name}, thanks for applying to join the Keyferrals partner network! Your account specialist will reach out within 1 business day to confirm your service areas. Reply HELP for help, STOP to opt out.
@@ -58,7 +58,7 @@ After deploying, check that these URLs load over HTTPS:
 > Keyferrals: Reminder – your onboarding call with {rep_name} is scheduled for {date} at {time}. Reply to this message if you need to reschedule. Reply STOP to opt out.
 
 **Sample message 3 (marketing)**
-> Keyferrals: We've opened new referral territories in {city}. Want priority access? Reply YES and your account specialist will follow up. Msg & data rates may apply. Reply STOP to opt out.
+> Keyferrals: New for partner agents: professional listing video editing is now available. Reply YES and your account specialist will follow up with details. Msg & data rates may apply. Reply STOP to opt out.
 
 **How do end users consent (message flow)**
 > End users opt in by submitting the "Get Started" form at https://keyferral.com/#get-started. The form collects name, email, and an optional phone number. It shows two separate checkboxes, both unchecked by default and not required to submit the form: one for non-marketing messages (application follow-ups, referral notifications, appointment reminders, account updates) and one for marketing messages (promotional offers, program updates). Each checkbox names Keyferrals and states that message frequency varies, message & data rates may apply, and users can reply HELP for help or STOP to opt out. Links to our Privacy Policy (https://keyferral.com/privacy-policy/) and Terms & Conditions (https://keyferral.com/terms-and-conditions/) are shown directly below the checkboxes. SMS consent is not a condition of purchase. Opt-in data and consent are never shared with third parties.
